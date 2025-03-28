@@ -1,2 +1,5 @@
 # LeetCode
-# LeetCode
+
+- Luis Angel Gutierrez Pineda
+
+## Problem: Permutations
